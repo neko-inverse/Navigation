@@ -1,0 +1,42 @@
+/* 覆盖默认样式以获得更干净的外观 */
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  --vp-home-hero-image-background-image: none;
+  --vp-home-hero-image-filter: none;
+  
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-alt: #f8f9fa;
+  --vp-c-text-1: #212529;
+  --vp-c-text-2: #495057;
+  --vp-c-text-3: #6c757d;
+  --vp-c-brand: #667eea;
+  --vp-c-brand-light: #764ba2;
+}
+
+.VPHomeHero .VPHomeHeroContent {
+  flex-direction: column;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.VPHomeHero .VPHomeHeroTitle {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.VPHomeHero .VPHomeHeroTagline {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  color: var(--vp-text-secondary);
+}
+
+.VPHomeHero .VPHomeHeroImage {
+  display: none;
+}
+
+/* 移除不需要的元素 */
+.VPHomeFeatures,
+.VPHomeActions {
+  display: none;
+}
