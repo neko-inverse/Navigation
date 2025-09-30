@@ -4,35 +4,90 @@
       "name": "开发工具",
       "icon": "💻",
       "websites": [
-        {"name": "GitHub", "url": "https://github.com", "description": "代码托管平台"},
-        {"name": "Stack Overflow", "url": "https://stackoverflow.com", "description": "技术问答社区"},
-        {"name": "MDN Web Docs", "url": "https://developer.mozilla.org", "description": "Web 开发者文档"}
+        {
+          "name": "GitHub",
+          "url": "https://github.com",
+          "description": "代码托管平台"
+        },
+        {
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com",
+          "description": "技术问答社区"
+        },
+        {
+          "name": "MDN Web Docs",
+          "url": "https://developer.mozilla.org",
+          "description": "Web 开发者文档"
+        }
       ]
     },
     {
       "name": "设计资源",
       "icon": "🎨",
       "websites": [
-        {"name": "Figma", "url": "https://www.figma.com", "description": "界面设计工具"},
-        {"name": "Dribbble", "url": "https://dribbble.com", "description": "创意设计社区"},
-        {"name": "Behance", "url": "https://www.behance.net", "description": "创意展示平台"}
+        {
+          "name": "Figma",
+          "url": "https://www.figma.com",
+          "description": "界面设计工具"
+        },
+        {
+          "name": "Dribbble",
+          "url": "https://dribbble.com",
+          "description": "创意设计社区"
+        },
+        {
+          "name": "Behance",
+          "url": "https://www.behance.net",
+          "description": "创意展示平台"
+        }
       ]
     },
     {
       "name": "学习资源",
       "icon": "📚",
       "websites": [
-        {"name": "Coursera", "url": "https://www.coursera.org", "description": "在线学习平台"},
-        {"name": "freeCodeCamp", "url": "https://www.freecodecamp.org", "description": "编程学习资源"}
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org",
+          "description": "在线学习平台"
+        },
+        {
+          "name": "freeCodeCamp",
+          "url": "https://www.freecodecamp.org",
+          "description": "编程学习资源"
+        }
       ]
     },
     {
       "name": "日常工具",
       "icon": "🔧",
       "websites": [
-        {"name": "Google", "url": "https://www.google.com", "description": "搜索引擎"},
-        {"name": "YouTube", "url": "https://www.youtube.com", "description": "视频分享平台"},
-        {"name": "Spotify", "url": "https://www.spotify.com", "description": "音乐流媒体"}
+        {
+          "name": "Google",
+          "url": "https://www.google.com",
+          "description": "搜索引擎"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com",
+          "description": "视频分享平台"
+        },
+        {
+          "name": "Spotify",
+          "url": "https://www.spotify.com",
+          "description": "音乐流媒体"
+        }
+      ]
+    },
+    {
+      "name": "测试分类",
+      "icon": "😍",
+      "websites": [
+        {
+          "name": "Hello算法",
+          "url": "https://www.hello-algo.com/",
+          "description": "Hello算法在线阅读"
+        }
       ]
     }
   ]
