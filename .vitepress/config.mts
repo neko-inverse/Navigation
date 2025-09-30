@@ -11,10 +11,7 @@ export default defineConfig({
     socialLinks: [],
     footer: {
       message: '导航数据存储在 data/navData.json 文件中，可随时编辑更新',
-      copyright: '© 2023 智能导航页'
-    },
-    search: {
-      provider: 'local'
+      copyright: '© 2025 智能导航页'
     },
     appearance: true
   },
